@@ -1,0 +1,9 @@
+complete flutter app :- https://www.youtube.com/watch?v=JdVu04EC7kE
+
+e- commerce app : - https://www.youtube.com/watch?v=DR4Vuu_VSZA&list=PL5jb9EteFAOAusKTSuJ5eRl1BapQmMDT6
+
+e commerce app With Provider : - https://www.youtube.com/watch?v=UHUSqJDKe-Q&t=4466s
+
+barber Shop app : - https://www.youtube.com/watch?v=lGsuOJQXZWA&t=12303s
+
+current working app : https://www.youtube.com/watch?v=SsKNRwYPlrw // => 8/12/24
